@@ -1,0 +1,8 @@
+production:
+  adapter: mysql2
+  host: 207.246.91.54
+  database: ror
+  username: deploy
+  password: 12345678
+  encoding: unicode
+  pool: 5
